@@ -1,0 +1,5 @@
+.image-grid {width: 100%;max-width: 1040px;margin: 0 auto; text-align: center;}
+.card {overflow: hidden;transition: .3s ease-in-out; border-radius: 8px; background-color: #ddd;}
+.image-in-card {}
+.image-in-card img {padding: 0 0 0 0;}
+.text-in-card {line-height: 54px; background-color: #ffffff; font-size: 24px;}
